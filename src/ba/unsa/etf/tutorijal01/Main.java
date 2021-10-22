@@ -1,4 +1,4 @@
-package ba.unsa.etf.predavanje01;
+package ba.unsa.etf.tutorijal01;
 
 import java.util.Scanner;
 
